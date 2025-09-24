@@ -1,0 +1,60 @@
+James Cameron
+Kanada
+71
+Titanic
+Leonardo DiCaprio, Kate Winslet
+1997
+Francis Ford Coppola
+ABD
+86
+The Godfather
+Marlon Brando, Al Pacino
+1972
+Robert Zemeckis
+ABD
+73
+Forrest Gump
+Tom Hanks, Robin Wright
+1994
+Peter Jackson
+Yeni Zelanda
+63
+The Lord of the Rings: The Fellowship of the Ring
+Elijah Wood, Ian McKellen
+2001
+George Lucas
+ABD
+81
+Star Wars: A New Hope
+Mark Hamill, Harrison Ford
+1977
+Christopher Nolan
+İngiltere
+55
+The Dark Knight
+Christian Bale, Heath Ledger
+2008
+James Cameron
+Kanada
+71
+Avatar
+Sam Worthington, Zoe Saldana
+2009
+Christopher Nolan
+İngiltere
+55
+Inception
+Leonardo DiCaprio, Joseph Gordon-Levitt
+2010
+Steven Spielberg
+ABD
+78
+Jurassic Park
+Sam Neill, Laura Dern
+1993
+Chris Columbus
+ABD
+67
+Harry Potter and the Sorcerer’s Stone
+Daniel Radcliffe, Emma Watson
+2001
